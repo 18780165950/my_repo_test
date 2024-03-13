@@ -3,5 +3,9 @@ mytest1
 
 
 
+<<<<<<< HEAD
 
 i want to modify
+=======
+mytest1 modify
+>>>>>>> mybranch1
